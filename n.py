@@ -31,13 +31,13 @@ COLLEGE_LOCATIONS = {
 ROUTE_VIDEOS = {
     ("Main Gate", "Library"): "main.mp4",
     ("Main Gate", "KSH"): "main.mp4",
-    ("Main Gate", "Cricket Ground"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
-    ("Main Gate", "Computer Science Block"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
-    ("Main Gate", "Polytechnic"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
-    ("Main Gate", "Canteen"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
-    ("Library", "Cafeteria"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
-    ("Library", "Auditorium"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
-    ("Cafeteria", "Hostel A"): r"c:\Users\HP\Desktop\py\mejor Project_directory\videos\main.mp4",
+    ("Main Gate", "Cricket Ground"):"main.mp4",
+    ("Main Gate", "Computer Science Block"): "main.mp4",
+    ("Main Gate", "Polytechnic"): "main.mp4",
+    ("Main Gate", "Canteen"): "main.mp4",
+    ("Library", "Cafeteria"): "main.mp4",
+    ("Library", "Auditorium"): "main.mp4",
+    ("Cafeteria", "Hostel A"): "main.mp4",
 }
 
 def create_navigation_graph():
